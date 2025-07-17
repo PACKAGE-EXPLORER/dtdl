@@ -28,6 +28,3 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_PROJECT_KEY: PACKAGE-EXPLORER_dtdl
           SONAR_ORGANIZATION: package-explorer
-
-
-
